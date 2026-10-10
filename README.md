@@ -1,39 +1,44 @@
-## Hi there 👋
 <div align="center">
-  <h1>Hi, I'm Cristhian</h1>
-  <h3>Estudiante de Ingenieria de Sistemas - Universidad NUR</h3>
+  <h1>Hi, I'm Cristhian! 👋</h1>
+  <h3>💻 Systems Engineering Student | NUR University</h3>
   <p>
-    <a href="https://github.com/ccriss077">Perfil de GitHub</a> | 
-    <a href="https://www.nur.edu/ingenieria-de-sistemas/">Universidad NUR</a>
-    <a https://www.instagram.com/ccris___1?exln=MW9oM2NwamFsZGJncw==>Perfil de IG</a>
+    <a href="https://github.com/ccriss077" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    </a>
+    <a href="https://www.nur.edu/ingenieria-de-sistemas/" target="_blank">
+      <img src="https://img.shields.io/badge/NUR-University-blue?style=for-the-badge&logo=edu&logoColor=white" alt="NUR University Badge"/>
+    </a>
   </p>
 </div>
 
-<hr>
+---
 
-<h2>Sobre mi</h2>
-<p>
-  Tengo 18 años y soy estudiante de Ingenieria de Sistemas en la Universidad NUR. 
-  Estoy muy interesado en aprender programacion y explorar distintos aspectos de la carrera.
-</p>
+### 🚀 About Me
+Hello! I am an 18-year-old **Systems Engineering** student at **NUR University**. I am deeply passionate about technology and constantly learning about software development and computer science.
 
-<h2>Que hago y a que me dirijo</h2>
-<p>
-  Actualmente dedico mi tiempo a estudiar los fundamentos de sistemas y practica de codigo. 
-  Mi meta es aprender a desarrollar software y construir una buena base profesional en la ingenieria.
-</p>
+---
 
-<h2>Habilidades e Intereses de estudio</h2>
-<p>
-  <strong>En que soy bueno:</strong> Logica de resolucion de problemas, aprendizaje constante y dedicacion.
-</p>
-<p>
-  <strong>Que me gusta investigar:</strong> Lenguajes de programacion, nuevas tecnologias y temas de desarrollo de software.
-</p>
+### 🎯 What I Do & Goals
+* **My Goals:** I aspire to become a well-rounded software developer and Systems Engineer, capable of designing efficient, scalable tech solutions that make a real impact.
+* **Current Activities:** I spend my time studying the fundamentals of systems engineering, practicing coding, exploring new tech tools, and sharpening my logic and problem-solving skills.
 
-<h2>Gustos y Hobbies</h2>
-<ul>
-  <li>Videojuegos</li>
-  <li>Escuchar musica</li>
-  <li>Entrenar en el gimnasio</li>
-</ul>
+---
+
+### 🧠 Skills & Learning Interests
+* **Skills:** Strong logical reasoning, great adaptability for self-taught learning of new languages and technologies, and academic discipline.
+* **Research Interests:** I love researching software development, advanced programming logic, cybersecurity, and innovative fields in tech and computer systems.
+
+---
+
+### 🎮 Hobbies & Interests
+Outside of writing code, I enjoy activities that help me recharge and maintain a healthy balance:
+* 🎮 **Gaming:** I enjoy playing video games and exploring virtual worlds.
+* 🎵 **Music:** Listening to music is an essential part of my daily routine and focus sessions.
+* 🏋️‍♂️ **Workout:** I hit the gym regularly to stay fit, healthy, and build physical and mental discipline.
+
+---
+
+<div align="center">
+  <h3>✨ Thanks for visiting my profile! Let's connect and build great things together. ✨</h3>
+  <img src="https://komarev.com/ghpvc/?username=ccriss077&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
